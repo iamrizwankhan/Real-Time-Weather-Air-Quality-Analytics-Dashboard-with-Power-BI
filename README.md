@@ -27,4 +27,4 @@ I’m currently exploring how analytics and dashboards can help businesses move 
 
 Screenshot:
 
-https://github.com/iamrizwankhan/Real-Time-Weather-Air-Quality-Analytics-Dashboard-with-Power-BI/blob/main/image.png
+![Image](https://github.com/iamrizwankhan/Real-Time-Weather-Air-Quality-Analytics-Dashboard-with-Power-BI/blob/main/image.png)
