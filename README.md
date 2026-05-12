@@ -12,7 +12,7 @@ What I focused on most:
 👉 Clean UI
 👉 Decision-friendly layout
 👉 Data storytelling through visuals
-
+  
 Features:
 • AQI monitoring
 • Forecast trends
